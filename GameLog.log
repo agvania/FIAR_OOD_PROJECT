@@ -1,0 +1,1520 @@
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 6, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked addObserver on gamecomponents.MyBoard with arguments: main.BoardTerminalDisplay@2d6a346a, .
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@68de59f0, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 0, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@1bd871, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@65e26e12, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@74a893ff, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@678c862e, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@3abd6b1e, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@69c39cb2, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@2964a05d, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@d5c4ee6, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@8c3d026, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@6f967348, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@7e6ab533, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@f9e681c, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@68c50e46, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@612c4b66, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@108b1a8f, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@70cf08b1, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@251970e2, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@6c3d685f, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 5, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 5, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 5, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 5, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@338f6c7d, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@d1b9cfd, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@fdfacc4, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 4, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@25c78000, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@4ca49360, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@48c7aaef, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 5, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@2ca7563d, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 5, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@1e0ed5b2, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@5fefa888, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 5, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 6, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked addObserver on gamecomponents.MyBoard with arguments: main.BoardTerminalDisplay@5a86506a, .
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@28098d94, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 0, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@2e45105c, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@38351fbf, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@27b7516d, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@7442df79, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@525dbc90, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@806bc2f, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@722cb5c6, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@555214b9, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@7fcea971, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 5, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@58d67b44, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@6936daec, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@105ef1eb, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@495c83b2, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@58ca40be, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@4660a77c, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 4, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@7393e1fc, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@71d9a2ab, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 5, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@746c2f2, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@36a8a199, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 4, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 5, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@79095fd7, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@56735a55, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 5, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@2f2faeca, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.YourComputerPlayer with arguments: gamecomponents.MyBoard@637c67f9, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 3, .
+Invoked isComp on players.YourComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@7c8e3f75, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 3, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 6, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked addObserver on gamecomponents.MyBoard with arguments: main.BoardTerminalDisplay@5ee85a35, .
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@687a7e40, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 1, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 1, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getTop on gamecomponents.MyBoard with arguments: 1, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 1, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@41f6d156, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 6, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 6, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 6, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 6, 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 6, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@332986ef, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@6b59cf26, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 5, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 5, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 5, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 5, 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@552efed9, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 0, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 0, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 0, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 0, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@5d8440, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 0, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@7b9585ef, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 0, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@158c4d4c, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 4, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 4, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 4, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 4, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@2e26c3a1, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@72f596b2, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 5, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 5, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 5, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 5, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 5, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 2, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@5978bb14, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 6, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 6, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 6, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 6, 1, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 6, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@5424bf0, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 1, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 6, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@43877c42, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@73eef3b0, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.HumanPlayer with arguments: gamecomponents.MyBoard@4cc0e346, gamecomponents.MyDisc@5de2d159, gamecomponents.MyDisc@561e5a36, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 2, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 2, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 2, 4, gamecomponents.MyDisc@5de2d159, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 2, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 5, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 5, .
+Invoked isComp on players.HumanPlayer with no arguments.
+Invoked clone on gamecomponents.MyBoard with no arguments.
+Invoked chooseColumn on players.RandomComputerPlayer with arguments: gamecomponents.MyBoard@b893008, gamecomponents.MyDisc@561e5a36, gamecomponents.MyDisc@5de2d159, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked columnNotFull on gamecomponents.MyBoard with arguments: 3, .
+Invoked putDiscInColumn on gamecomponents.MyBoard with arguments: 3, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked notifyObservers on gamecomponents.MyBoard with arguments: 3, 2, gamecomponents.MyDisc@561e5a36, .
+Invoked getTopIndex on gamecomponents.MyBoard with arguments: 3, .
+Invoked getWidth on gamecomponents.MyBoard with no arguments.
+Invoked getHeight on gamecomponents.MyBoard with no arguments.
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 2, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 3, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 4, 1, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 5, 0, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 2, 3, .
+Invoked getDisc on gamecomponents.MyBoard with arguments: 1, 4, .
+Invoked isComp on players.RandomComputerPlayer with no arguments.
+Invoked isComp on players.RandomComputerPlayer with no arguments.

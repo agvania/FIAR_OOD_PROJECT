@@ -1,0 +1,1 @@
+Aspectj Tools > Apply build configuration

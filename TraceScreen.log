@@ -1,0 +1,1016 @@
+Welcome to Four in a Line!
+
+0. Exit
+1. Play against a friend
+2. Play against the computer
+3. Configure computer player huristics
+Please choose an option: Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+---------------
+
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 1477 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|O| | | | | | |
+---------------
+
+players.YourComputerPlayer@792e67fa was asked to choose a column
+players.YourComputerPlayer@792e67fa chose a column
+time of choice: 0 ms.
+
+Computer put a disc in column 1
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|O| | | | | | |
+---------------
+
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 272 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|O|O| | | | | |
+---------------
+
+players.YourComputerPlayer@792e67fa was asked to choose a column
+players.YourComputerPlayer@792e67fa chose a column
+time of choice: 0 ms.
+
+Computer put a disc in column 1
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O| | | | | |
+---------------
+
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 241 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O| |O| | | |
+---------------
+
+players.YourComputerPlayer@792e67fa was asked to choose a column
+players.YourComputerPlayer@792e67fa chose a column
+time of choice: 0 ms.
+
+Computer put a disc in column 3
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O|X|O| | | |
+---------------
+
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 242 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 248 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 1135 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 1023 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O|X|O| |O| |
+---------------
+
+players.YourComputerPlayer@792e67fa was asked to choose a column
+players.YourComputerPlayer@792e67fa chose a column
+time of choice: 0 ms.
+
+Computer put a disc in column 1
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O|X|O| |O| |
+---------------
+
+players.HumanPlayer@4522cbaf was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@4522cbaf chose a column
+time of choice: 1065 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O|X|O| |O|O|
+---------------
+
+players.YourComputerPlayer@792e67fa was asked to choose a column
+players.YourComputerPlayer@792e67fa chose a column
+time of choice: 0 ms.
+
+Computer put a disc in column 1
+
+Printing board:
+
+| | | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|X| | | | | | |
+|O|O|X|O| |O|O|
+---------------
+
+Game has ended! The computer won!
+
+
+0. Exit
+1. Play against a friend
+2. Play against the computer
+3. Configure computer player huristics
+Please choose an option: Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 1427 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 480 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 1310 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 973 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | |X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 1630 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+| | | | | |X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 422 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | |X|
+| | | | | | |O|
+| | | | | |X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 313 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+| | | | | | |X|
+| | | | | | |O|
+| | | | | |X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 598 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |X|O|
+| | | | | |X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 709 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |X|O|
+| | | | |O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 477 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |X|O|
+| | | |X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 565 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 1294 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | |X|
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 518 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 2392 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | | |X|
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 790 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | | |X|
+| | | | | | |O|
+| | | | | |X|X|
+| | | | | |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 893 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | | |X|
+| | | | | |O|O|
+| | | | | |X|X|
+| | | | | |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 829 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | |X|X|
+| | | | | |O|O|
+| | | | | |X|X|
+| | | | | |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 637 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | |X|X|
+| | | | | |O|O|
+| | | | | |X|X|
+| | | |O| |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 733 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | |X|X|
+| | | | | |O|O|
+| | | |X| |X|X|
+| | | |O| |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 741 ms.
+
+Printing board:
+
+| | | | | | |O|
+| | | | | |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| | | |O| |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 517 ms.
+
+Printing board:
+
+| | | | | |X|O|
+| | | | | |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| | | |O| |X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 925 ms.
+
+Printing board:
+
+| | | | | |X|O|
+| | | | | |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| | | |O|O|X|O|
+| | |O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 2205 ms.
+
+Printing board:
+
+| | | | | |X|O|
+| | | | | |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| | | |O|O|X|O|
+| |X|O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 1021 ms.
+
+Printing board:
+
+| | | | | |X|O|
+| | | | | |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| | |O|O|O|X|O|
+| |X|O|X|O|X|O|
+---------------
+
+players.HumanPlayer@68964c2b was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@68964c2b chose a column
+time of choice: 1189 ms.
+
+Printing board:
+
+| | | | | |X|O|
+| | | |X| |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| | |O|O|O|X|O|
+| |X|O|X|O|X|O|
+---------------
+
+players.HumanPlayer@3a6036f was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@3a6036f chose a column
+time of choice: 1333 ms.
+
+Printing board:
+
+| | | | | |X|O|
+| | | |X| |X|X|
+| | | |O| |O|O|
+| | | |X| |X|X|
+| |O|O|O|O|X|O|
+| |X|O|X|O|X|O|
+---------------
+
+Game has ended! Player 1 won!
+
+
+0. Exit
+1. Play against a friend
+2. Play against the computer
+3. Configure computer player huristics
+Please choose an option: Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 2116 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | |O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 214 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | |X| |
+| | | | | |O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 190 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 189 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | | | |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 182 ms.
+
+Printing board:
+
+| | | | | | | |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 190 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 198 ms.
+
+Column is full. please choose again.
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 1120 ms.
+
+Column is full. please choose again.
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 2552 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 1744 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+|O| | | | |O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 974 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+|O|X| | | |O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 806 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+|O|X|O| | |O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 517 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+|O|X|O|X| |O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 437 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 854 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| |X| | | |X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 390 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| |X|O| | |X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 286 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| |X|O|X| |X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 302 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | | | |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 318 ms.
+
+Column is full. please choose again.
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: Please enter a valid number.
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 441 ms.
+
+players.HumanPlayer@87abf31 chose a column
+time of choice: 441 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 1719 ms.
+
+Illegal column number, choose again
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 416 ms.
+
+Column is full. please choose again.
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 504 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | | | |X| |
+| | | |X| |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 1751 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | |O| |X| |
+| | | |X| |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 382 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | |O| |X| |
+| | |X|X| |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 326 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | | |O| |X| |
+| |O|X|X| |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 430 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | | | |O| |
+| | |X|O| |X| |
+| |O|X|X| |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 615 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | |O| |O| |
+| | |X|O| |X| |
+| |O|X|X| |O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 382 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | |O| |O| |
+| | |X|O| |X| |
+| |O|X|X|X|O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 414 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | | |O| |O| |
+| | |X|O|O|X| |
+| |O|X|X|X|O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@87abf31 was asked to choose a column
+Player 2, choose a column: 
+players.HumanPlayer@87abf31 chose a column
+time of choice: 957 ms.
+
+Printing board:
+
+| | | | | |X| |
+| | |X|O| |O| |
+| | |X|O|O|X| |
+| |O|X|X|X|O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+players.HumanPlayer@389235c2 was asked to choose a column
+Player 1, choose a column: 
+players.HumanPlayer@389235c2 chose a column
+time of choice: 894 ms.
+
+Printing board:
+
+| | |O| | |X| |
+| | |X|O| |O| |
+| | |X|O|O|X| |
+| |O|X|X|X|O| |
+| |X|O|X|O|X| |
+|O|X|O|X|O|O| |
+---------------
+
+Game has ended! Player 1 won!
+
+
+0. Exit
+1. Play against a friend
+2. Play against the computer
+3. Configure computer player huristics
+Please choose an option: Bye bye!

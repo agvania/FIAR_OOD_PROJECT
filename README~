@@ -1,0 +1,89 @@
+OOAD PROJECT - Design explanations
+
+
+Here's an overview about all classes and components of the program:
+
+Disc:
+This is the basic element of the game. It has only one attribute that distinguishes one from another: the player number. The player number is the number of the player in the game which the disc belongs to.
+We could have given each disc a Player refference, but that would be a redundant dependency. Moreover, in order to implement the singleton pattern - this method of characterizing discs will prove more efficient.
+The Disc class implements the singleton pattern - for every player number there exists only ONE Disc instance, since the only thing discs differ from each other is their player number. Having one only one instance is a significant memory optimization, since given a numbering convention - only two instances of Disc have to be created, even for multiple games.
+
+Board:
+Can be inserted and extracted discs from it. Gives all info required to know its inner state. See documentation.
+Every game has one instance of this class.
+Board extends the Observable class, and can be observed to display it. It laso has its own implementation of notifyObservers which uses Observable's implementation to utilize a more convenient and unified notification.
+
+BoardAnalyzer:
+This class can give information about the significance of the discs in the board. Right now it has only one method - isWinningDisc(). This method is used by computer players to gain information about there moves, and by the game itself to find out if a certain move won the game.
+But it can be extended to have more analyizing mehods.
+This job of analyzing the board has been seperated from the Board class, sice it exceeds the basic informatting on the board's state.
+
+Player:
+A representation of a game player. every game has two instances of this class.
+This is an abstract class, since there is always a certain characterization of the player(human/computer).
+In order to give only the nessesary information about this characterization, there's the method isComp(). This method returns true/false, and is to be implemented by subclasses of Player. Thus one can know if the player is human or computer without the need of the 'instanceof' keyword.
+Every Player subclass must implement the method chooseColumn(), and thus it is implementing the strategy pattern. This method gets a board in a certain state, and two discs. These are given in order to perform manipulations on the board in order to decide what column to choose.
+
+HumanPlayer:
+Has input and output streams in order to comunicate with the real human beeing represented by it.
+Note that in our implementation, the board and discs given are not used, since the board is being printed to the screen, but one could have a different implementation, say giving the human player actually manipulate the board in certain ways in order to decide his choice.
+
+ComputerPlayer:
+This abstract class was made for one reason - code reuse. Every subclass of it can have the benefits of it's static methods - tryToWin() and preventRivalWin() [which are using BoardAnalyzer], and also have a free implementation of isComp().
+
+ComputerPlayer has three subclasses implemented by us as examples:
+
+1. YourComputerPlayer - implements chooseColumn() the way the school solution did the choosing.
+2. MyComputerPlayer - same as the school solution, just instead of choosing the most left column it chooses the most right column.
+3. RandomComputerPlayer - same as school solution, but chooses a random column instead of a deterministic one.
+
+Note that since the only difference between all subclasses of Player is the implementation of the method chooseColumn(), and our implementaions of ComputerPlayer are not preserving any state, they can easily be implemented as singletons, like we did in the ComputerPlayerFactory class.
+This is not a built-in property of the ComputerPlayer class since one can implement a different subclass to ComputerPlayer which might be preserving a state, thus not applicable for the singleton pattern.
+
+Game:
+This class is where it all happens. It gets two players and a board, and makes the interaction between them.
+In every turn, the game asks the current player to chooseColumn(), and inserts a disc to the board accordingly.
+Game has methods to give all information about the state of the game, and also can return its players and board.
+
+BoardDisplay:
+All classes implementing this interface are responsible for visually representing the board.
+Its method displayBoard() can be invoked in order to visually display the board according to the specific iplementation.
+This interface extends the Observer interface, since every BoardDisplay is an observer of the Board class.
+If we would like to allow the user to configure the display, we could implement a BoardDisplay that allows this.
+
+BoardTerminalDisplay:
+This is an example implementation of the BoardDisplay interface.
+It looks just like the school solution's display.
+
+--------------------------------------------------------------
+
+Up untill now was the basic design of the game(including some examples, like ComputerPlayer's subclasses and BoardTerminalDisplay).
+This load of classes can be used to build a flexible and extendable complete program of the game.
+An example of that is given by the following classes:
+
+FourInLine:
+The main class, running the UI and creating instances of the game, using GameFactory.
+An example of configurating computer huristics is also implemeted in this class.
+
+GameFactory:
+Utilizes the creation of game for the FourInLine class. Given an option, it creates the instances of Player, Board, and Game classes necessary to run the game.
+
+ComputerPlayerFactory:
+Implements the singleton pattern for the given implementations of the ComputerPlayer.
+
+TerminalGameRunner:
+Runs a specific game and displays it to the terminal, the way it was done in the school solution.
+
+
+Requirements answers:
+1. Implement the BoardDisplay interface in the way suitable for the displaying method wanted, and add it as an observer to the board. When the board will change, all obervers will be notified simultaniasly.
+-Observer pattern.
+
+2. More huristics can implemented by extending the ComputerPlayer class, implementing the chooseColumn method the way we want.
+-Strategy pattern.
+
+3. Implement BoardDisplay the way we want, and give the option, through set methods, to configure the display.
+
+4. Disc is a singleton, thus optimizing memory. ComputerPlayer, at least in some implementations, can be a singleton, thus optimizing memory.
+-Singleton pattern.
+
