@@ -5,7 +5,8 @@ import gamecomponents.MyBoard;
 import gamecomponents.MyDisc;
 import org.junit.Before;
 import org.junit.Test;
-import players.RandomComputerPlayer;
+import players.ComputerPlayer;
+import players.compstartegies.RandomStrategy;
 
 import static org.junit.Assert.assertSame;
 import static org.junit.Assert.assertTrue;
@@ -13,7 +14,7 @@ import static org.junit.Assert.assertTrue;
 
 public class RandomComputerPlayerTest {
 	
-	private static RandomComputerPlayer _tested = null;
+	private static ComputerPlayer _tested = null;
 	private static Board _b = null;
 	private static MyDisc _myD = null;
 	private static MyDisc _hisD = null;
@@ -25,7 +26,7 @@ public class RandomComputerPlayerTest {
 		_b = new MyBoard(4,4);
 		_myD = MyDisc.newDisc(0);
 		_hisD = MyDisc.newDisc(1);	
-		_tested = new RandomComputerPlayer(0);
+		_tested = new ComputerPlayer(0, new RandomStrategy());
 		
 		
 	}

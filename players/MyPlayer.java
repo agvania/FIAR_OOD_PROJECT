@@ -25,6 +25,11 @@ public abstract class MyPlayer implements IMyPlayer {
 	public int getNumber() {
 		return pNum;
 	}
+
+    @Override
+    public String id() {
+        return "" + getNumber();
+    }
 	
 	/* (non-Javadoc)
 	 * @see players.Player#isComp()

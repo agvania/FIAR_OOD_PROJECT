@@ -1,7 +1,9 @@
 package main;
 
 import gamecomponents.MyGame;
+import log.LogProxyHandler;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 
@@ -20,56 +22,60 @@ import java.util.Scanner;
 		Scanner terminalInput = new Scanner(System.in);
 		
 		int choice = 0;
-		boolean badchoice = true;
+		boolean badChoice = true;
 
 		System.out.println("Welcome to Four in a Line!");
 
 		while (true) {
 			
 			do {
-				badchoice = false;
+				badChoice = false;
 				printMenu();
 				try {
 					choice = Integer.parseInt(terminalInput.nextLine());
-					badchoice = choice < QUIT || choice > CONFIG;
-					if (badchoice) printBadChoise();;
+					badChoice = choice < QUIT || choice > CONFIG;
+					if (badChoice) printBadChoise();
 				} catch (NumberFormatException e) {
 					printBadChoise();
 				}
-			} while (badchoice); 
+			} while (badChoice);
 
 
 			if (choice == QUIT) {
 				System.out.println("Bye bye!");
 				terminalInput.close();
-				return;
-			}
-			
-			if (choice == CONFIG) {
-				do {
-					badchoice = false;
-					printConfigMenu();
-					try {
-						choice = Integer.parseInt(terminalInput.nextLine());
-						System.out.println();
-						badchoice = choice<YOUR_COMP || choice>RAND;
-						if (badchoice)
-							printBadChoise();
-						else 
-							GameFactory.configureHuristics(choice);
-					} catch (NumberFormatException e) {
-						badchoice = true;
-						printBadChoise();
-					}
-				} while (badchoice);
-				continue;
-			}
-			
-			//create the game and run it
-			MyGame game = GameFactory.createGame(choice);
-			TerminalGameRunner.runGameAndDisplay(game);
-		}
-	}
+                proxiesCleanup();
+                return;
+            }
+
+
+            if (choice == CONFIG) {
+                do {
+                    badChoice = false;
+                    printConfigMenu();
+                    try {
+                        choice = Integer.parseInt(terminalInput.nextLine());
+                        System.out.println();
+                        badChoice = choice<YOUR_COMP || choice>RAND;
+                        if (badChoice) {
+                            printBadChoise();
+                        }
+						else {
+                            GameFactory.configureHuristics(choice);
+                        }
+                    } catch (NumberFormatException e) {
+                        badChoice = true;
+                        printBadChoise();
+                    }
+                } while (badChoice);
+                continue;
+            }
+
+            //create the game and run it
+            MyGame game = GameFactory.createGame(choice);
+            TerminalGameRunner.runGameAndDisplay(game);
+        }
+    }
 
 	
 	private static void printBadChoise() {
@@ -92,5 +98,16 @@ import java.util.Scanner;
 		System.out.println(RAND + ". Random computer player");
 		System.out.print("Please choose a huristics: ");
 	}
+
+    private static void proxiesCleanup() {
+        if (GameFactory.LOG_PROXY_ENABLED) {
+            try {
+                // close log proxy stream.
+                LogProxyHandler.closeLogStream();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
 	
 }

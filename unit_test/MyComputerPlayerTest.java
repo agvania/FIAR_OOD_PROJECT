@@ -5,14 +5,15 @@ import gamecomponents.MyBoard;
 import gamecomponents.MyDisc;
 import org.junit.Before;
 import org.junit.Test;
-import players.MyComputerPlayer;
+import players.ComputerPlayer;
+import players.compstartegies.MyStrategy;
 
 import static org.junit.Assert.assertSame;
 
 
 public class MyComputerPlayerTest {
 	
-	private static MyComputerPlayer _tested = null;
+	private static ComputerPlayer _tested = null;
 	private static Board _b = null;
 	private static MyDisc _myD = null;
 	private static MyDisc _hisD = null;
@@ -24,7 +25,7 @@ public class MyComputerPlayerTest {
 		_b = new MyBoard(4,4);
 		_myD = MyDisc.newDisc(0);
 		_hisD = MyDisc.newDisc(1);	
-		_tested = new MyComputerPlayer(0);
+		_tested = new ComputerPlayer(0, new MyStrategy());
 		
 		
 	}

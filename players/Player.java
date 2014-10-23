@@ -18,9 +18,17 @@ public interface Player {
 	 */
 	public int chooseColumn(Board b, Disc myDisc, Disc hisDisc);
 
+    public void informInvalidChoice();
+    public void informInvalidChoice(String msg);
+
 	/**
 	 * @return is this player a computer player?
 	 */
 	public boolean isComp();
 
+    /**
+     *
+     * @return the id of this player.
+     */
+    public String id();
 }

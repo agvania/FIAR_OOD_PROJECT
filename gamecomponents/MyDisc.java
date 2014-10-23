@@ -15,13 +15,13 @@ public class MyDisc implements Disc {
 
 	private static Map<Integer, MyDisc> discs = new HashMap<Integer, MyDisc>();
 
-	public static MyDisc newDisc(int pNum) {
-		if (discs.get(pNum) != null) {
-			return discs.get(pNum);
+	public static MyDisc newDisc(int playerNum) {
+		if (discs.get(playerNum) != null) {
+			return discs.get(playerNum);
 		}
 		
-		MyDisc disc = new MyDisc(pNum);
-		discs.put(pNum, disc);
+		MyDisc disc = new MyDisc(playerNum);
+		discs.put(playerNum, disc);
 		return disc;
 	}
 
@@ -30,10 +30,10 @@ public class MyDisc implements Disc {
 	
 	/**
 	 * 
-	 * @param pNum number of the player who owns this disc 
+	 * @param playerNum number of the player who owns this disc
 	 */
-	private MyDisc(int pNum) {
-		playerNum = pNum;
+	private MyDisc(int playerNum) {
+		this.playerNum = playerNum;
 	}
 	
 	

@@ -16,14 +16,12 @@ public class LogProxyHandler implements InvocationHandler {
 		try {
 			out = new FileOutputStream(new File("GameLog.log"));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 
 	Object myObject;
 	public LogProxyHandler(Object o) {
-		// TODO Auto-generated constructor stub
 		myObject = o;
 	}
 
@@ -35,8 +33,8 @@ public class LogProxyHandler implements InvocationHandler {
 				logln(" with no arguments.");
 			} else {
 				log(" with arguments: ");
-				for (Object object : args) {
-					String v = object == null ? "null" : object.toString();
+				for (Object arg : args) {
+					String v = arg == null ? "null" : arg.toString();
 					log(v + ", ");
 				}
 				logln(".");

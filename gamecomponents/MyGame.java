@@ -46,17 +46,15 @@ public class MyGame implements Game {
 		if (gameOver) return -1;
 		
 		int choice;
-		do {
-			choice = currentPlayer.chooseColumn(board.clone(),
-					MyDisc.newDisc(getNum(currentPlayer)),
-					MyDisc.newDisc(getNum(currentRival)));
-			
-			if (!validChoice(choice)) {
-				throw new IllegalColumnNumberException("" + choice);
-			}
-		} while (!validChoice(choice));
-		
-		Disc newDisc = MyDisc.newDisc(getNum(currentPlayer));
+        choice = currentPlayer.chooseColumn(board.clone(),
+                MyDisc.newDisc(getNum(currentPlayer)),
+                MyDisc.newDisc(getNum(currentRival)));
+
+        if (!validChoice(choice)) {
+            throw new IllegalColumnNumberException("" + choice);
+        }
+
+        Disc newDisc = MyDisc.newDisc(getNum(currentPlayer));
 		board.columnNotFull(choice);
 		board.putDiscInColumn(choice, newDisc);
 		board.notifyObservers(choice, board.getTopIndex(choice), newDisc);

@@ -23,10 +23,8 @@ public class LogProxyFactory {
 	
 
 	public static Object newLogProxy(Object o) {
-		Object proxy =  Proxy.newProxyInstance(	o.getClass().getClassLoader(),
+		return Proxy.newProxyInstance(	o.getClass().getClassLoader(),
 								myInterfaces, new LogProxyHandler(o));
-		
-		return proxy;
 	}
 
 }

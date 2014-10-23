@@ -1,9 +1,10 @@
 package main;
 
 import players.ComputerPlayer;
-import players.MyComputerPlayer;
-import players.RandomComputerPlayer;
-import players.YourComputerPlayer;
+import players.compstartegies.ComputerStrategy;
+import players.compstartegies.MyStrategy;
+import players.compstartegies.RandomStrategy;
+import players.compstartegies.YourStrategy;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -17,57 +18,50 @@ import java.util.Map;
 public class ComputerPlayerFactory {
 
 	public static final int 
-	YOUR_COMP = 1,
-	MY_COMP = 2,
-	RAND = 3,
-	TYPES_NUM = 3;
-	
-	private static boolean inited = false;
-	
-	private static Map<Integer, Map<Integer, ComputerPlayer>> map;
-	
+	YOUR_COMP = 0,
+	MY_COMP = 1,
+	RAND = 2,
+	STRATS_SIZE = 3;
+
+
+    private static ComputerStrategy [] strategies = new ComputerStrategy[STRATS_SIZE];
+    static { // init
+        strategies [YOUR_COMP]  = new YourStrategy();
+        strategies [MY_COMP]    = new MyStrategy();
+        strategies [RAND]       = new RandomStrategy();
+    }
+
+    private static Map<Integer, ComputerPlayer> [] playerMaps = new Map[STRATS_SIZE];
+    static { // init
+        playerMaps [YOUR_COMP]  = new HashMap<Integer, ComputerPlayer>();
+        playerMaps [MY_COMP]    = new HashMap<Integer, ComputerPlayer>();
+        playerMaps [RAND]       = new HashMap<Integer, ComputerPlayer>();
+    }
+
 	/**
 	 * 
 	 * @param pNum the player number of the requested player
-	 * @param huristics the playing huristics of the player
+	 * @param heuristicsNum the playing heuristicsNum of the player
 	 * @return
 	 */
-	public static ComputerPlayer newComputerPlayer(int pNum, int huristics) {
-		if (!inited) {
-			init();
-		}
-		
-		Map<Integer, ComputerPlayer> hmap = map.get(huristics); // get the map of the huristics chosen
+	public static ComputerPlayer newComputerPlayer(int pNum, int heuristicsNum) {
+		Map<Integer, ComputerPlayer> hmap = getPlayerMap(heuristicsNum); // get the map of the heuristicsNum chosen
 		if (hmap.containsKey(pNum)) { // there's an instance
 			return hmap.get(pNum);
 		} else { // create the instance
-			ComputerPlayer cp = newPlayer(pNum, huristics);
+			ComputerPlayer cp = new ComputerPlayer(pNum, getStrategy(heuristicsNum));
 			hmap.put(pNum, cp);
 			return cp;
 		}
 		
 	}
-	
-	private static ComputerPlayer newPlayer(int pNum, int huristics) {
-		switch (huristics) {
-		case YOUR_COMP:
-			return new YourComputerPlayer(pNum);
-		case MY_COMP:
-			return new MyComputerPlayer(pNum);
-		case RAND:
-			return new RandomComputerPlayer(pNum);
-		}
 
-		return null;
-	}
+    private static Map<Integer, ComputerPlayer> getPlayerMap(int i) {
+        return playerMaps[i-1];
+    }
 
-
-
-	private static void init() {
-		map = new HashMap<Integer, Map<Integer,ComputerPlayer>>(TYPES_NUM);
-		map.put(YOUR_COMP, new HashMap<Integer, ComputerPlayer>());
-		map.put(MY_COMP, new HashMap<Integer, ComputerPlayer>());
-		map.put(RAND, new HashMap<Integer, ComputerPlayer>());
-	}
+    private static ComputerStrategy getStrategy(int i) {
+        return strategies[i-1];
+    }
 
 }

@@ -4,6 +4,7 @@ import gamecomponents.Board;
 import gamecomponents.MyBoard;
 import gamecomponents.MyGame;
 import players.HumanPlayer;
+import players.humanplayerui.HumanPlayerTerminalUI;
 import players.Player;
 
 import static log.LogProxyFactory.newLogProxy;
@@ -14,6 +15,11 @@ import static log.LogProxyFactory.newLogProxy;
  * as specified in the static public constants, and creates the game according to the type
  */
 public class GameFactory {
+
+    /**
+    this option should be turned on/off if logging the method invocations of the Player class is desired/undesired.
+     */
+    static boolean LOG_PROXY_ENABLED = true;
 
 	//game types:
 	public static final int TWO_HUMANS = 1,
@@ -37,10 +43,11 @@ public class GameFactory {
 			Player h1 = newHumanPlayer(1);
 			Player h2 = newHumanPlayer(2);
 			
-			//PROXY
-			h1 = (Player) newLogProxy(h1);
-			h2 = (Player) newLogProxy(h2);
-			
+            if (LOG_PROXY_ENABLED) {
+                h1 = (Player) newLogProxy(h1);
+                h2 = (Player) newLogProxy(h2);
+            }
+
 			return new MyGame(h1, h2, b);
 			
 		case HUMAN_COMPUTER:
@@ -49,9 +56,11 @@ public class GameFactory {
 			Player h = newHumanPlayer(1);
 			Player c = ComputerPlayerFactory.newComputerPlayer(2, huristics);
 			
-			//PROXY
-			h = (Player) newLogProxy(h);
-			c = (Player) newLogProxy(c);
+			if (LOG_PROXY_ENABLED) {
+                h = (Player) newLogProxy(h);
+                c = (Player) newLogProxy(c);
+            }
+
 			return new MyGame(h, c, b);
 		default:
 			return null;
@@ -66,6 +75,6 @@ public class GameFactory {
 	}
 
 	private static HumanPlayer newHumanPlayer(int pNum) {
-		return new HumanPlayer(System.in, System.out, pNum);
+		return new HumanPlayer(pNum, new HumanPlayerTerminalUI(pNum, System.in, System.out));
 	}
 }

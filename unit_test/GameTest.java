@@ -36,7 +36,17 @@ public class GameTest {
 		public int chooseColumn(Board b, Disc myDisc, Disc hisDisc) {
 			return 0;
 		}
-	}
+
+        @Override
+        public void informInvalidChoice() {
+
+        }
+
+        @Override
+        public void informInvalidChoice(String msg) {
+
+        }
+    }
 
 
 	@Before

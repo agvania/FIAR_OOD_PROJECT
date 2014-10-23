@@ -38,7 +38,7 @@ import players.Player;
 			}
 		} catch (ColumnFullException e) {
 			if (current.isComp()) {
-				System.out.println("Computer chose a full coimun - " + e.getMessage());
+				System.out.println("Computer chose a full column - " + e.getMessage());
 				System.exit(1);
 			}
 			System.out.println("Column is full. please choose again.");
