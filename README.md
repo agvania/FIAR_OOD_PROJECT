@@ -1,14 +1,3 @@
-logins: agvania, arnoncohen
-id: 300257235, 021931738
-
-OOAD PROJECT
-
--------------
-HOW TO CREATE
--------------
-
-create a project called OOD_PROJECT
-
 
 ------
 DESIGN
